@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="89" lean-forward="true" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+            <state relative-caret-position="357">
+              <caret line="22" column="103" lean-forward="true" selection-start-line="22" selection-start-column="103" selection-end-line="22" selection-end-column="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,14 +83,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="51">
               <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
             </state>
           </provider>
-          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
     </leaf>
@@ -111,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/sample.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/HovedVindu.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/Main.java" />
+        <option value="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" />
       </list>
     </option>
   </component>
@@ -259,7 +260,6 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -297,7 +297,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5269000" />
+    <option name="totallyTimeSpent" value="5294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -356,8 +356,8 @@
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="89" lean-forward="true" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+        <state relative-caret-position="357">
+          <caret line="22" column="103" lean-forward="true" selection-start-line="22" selection-start-column="103" selection-end-line="22" selection-end-column="103" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -375,12 +375,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="51">
           <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
   </component>
   <component name="masterDetails">
