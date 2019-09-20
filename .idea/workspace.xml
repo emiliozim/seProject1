@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareEngineeringAndTestingProject/softwareengineering/project/controller/HovedVinduController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareEngineeringAndTestingProject/softwareengineering/project/controller/HovedVinduController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareEngineeringAndTestingProject/softwareengineering/project/view/HovedVindu.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/controller/HovedVinduController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/controller/MainWindowController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/view/HovedVindu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,7 +62,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="323">
               <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -117,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/sample.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/HovedVindu.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/Main.java" />
+        <option value="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" />
       </list>
     </option>
   </component>
@@ -141,30 +136,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
@@ -298,29 +293,27 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1568923063666" duration="3103000" />
+      <workItem from="1568969847504" duration="1452000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4405000" />
+    <option name="totallyTimeSpent" value="5857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21108742" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26435536" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26435536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,11 +325,9 @@
       <window_info anchor="bottom" id="Profiler" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32974428" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -344,6 +335,11 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,14 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/controller/MainWindowController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -383,9 +371,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="323">
           <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
