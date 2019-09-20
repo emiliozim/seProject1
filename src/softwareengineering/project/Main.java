@@ -17,7 +17,7 @@ public class Main extends Application {
         // getClass().getResource() tar utgangspunkt at vi begynner å lete i strukturen der Main.java er laget
         // Dette vil si at vi begynner å lete i mappen/pakken "no.hiof.larseknu.javafxml"
         // Siden vi derfra ønsker å gå inn i mappen/pakken "view" og leter etter "Hovedvindu.fxml" holder det å skriv "view/Hovedvindu.fxml"
-        fxmlInnlaster.setLocation(getClass().getResource("view/Hovedvindu.fxml"));
+        fxmlInnlaster.setLocation(getClass().getResource("view/MainWindow.fxml"));
         // Laster inn hovedLayoutet/rotnoden fra Hovedvindu.fxml
         // Hadde vi ønsket å få tilgang til funksjonalitet som ligger i denne, og vi vet hvilken type den er, kunne vi typecastet den
         // F.eks. hvis det var en AnchorPane definert som rotnoden i Hovedvindu.fxml. Kunne vi skrevet:
