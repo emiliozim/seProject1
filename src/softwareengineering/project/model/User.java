@@ -4,7 +4,7 @@ public class User {
 
     private String firstName, surName;
 
-    private int userID;
+    private static int userID;
 
     
 
