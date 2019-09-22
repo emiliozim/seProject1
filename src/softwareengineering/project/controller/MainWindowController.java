@@ -31,6 +31,8 @@ public class MainWindowController {
             @Override
             public void handle(ActionEvent event) {
 
+                //Skulle ikke legge så mye tid på innlogg, men dette føles ganska simpelt. 
+
                 User sessionUser = createUserSession();
 
                 message.setText("Innlogget som " + sessionUser.getUserName() + " fra " + sessionUser.getOrganization().getOrgName());
