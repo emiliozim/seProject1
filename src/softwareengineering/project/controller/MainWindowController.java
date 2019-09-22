@@ -31,7 +31,7 @@ public class MainWindowController {
             @Override
             public void handle(ActionEvent event) {
 
-                //Skulle ikke legge så mye tid på innlogg, men dette føles ganska simpelt. 
+                //Skulle ikke legge så mye tid på innlogg, men dette føles ganska simpelt.
 
                 User sessionUser = createUserSession();
 
@@ -44,9 +44,24 @@ public class MainWindowController {
 
     public User createUserSession() {
 
+        if(loginSuccessful()) {
+            // fetch data from database
+
+        } else
+            System.out.println("Login fail");
+
         User userSession = new User(100001, "Generic", "User", user.getText(), new Organization(900001, "Generic Ski Klubb"));
 
         return userSession;
+
+    }
+
+    public boolean loginSuccessful() {
+
+        if (false)
+            return false;
+
+        return true;
 
     }
 
