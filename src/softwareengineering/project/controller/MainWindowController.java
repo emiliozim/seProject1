@@ -42,7 +42,7 @@ public class MainWindowController {
 
     }
 
-    public User createUserSession() {
+    private User createUserSession() {
 
         if(loginSuccessful()) {
             // fetch data from database
@@ -56,7 +56,7 @@ public class MainWindowController {
 
     }
 
-    public boolean loginSuccessful() {
+    private boolean loginSuccessful() {
 
         if (false)
             return false;
