@@ -16,6 +16,9 @@
             <TextField fx:id="pass" />
         <Button fx:id="logIn" mnemonicParsing="false" text="Logg Inn" textFill="#171717" />
       </children></HBox>
-    <HBox alignment="CENTER" layoutX="126.0" layoutY="242.0" prefHeight="200.0" prefWidth="200.0" spacing="10.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" />
+    <HBox alignment="CENTER" layoutX="126.0" layoutY="242.0" prefHeight="200.0" prefWidth="200.0" spacing="10.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0">
+         <children>
+            <Label fx:id="message" />
+         </children></HBox>
   </children>
 </AnchorPane>
