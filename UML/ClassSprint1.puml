@@ -1,0 +1,36 @@
+@startuml
+
+'classes and interfaces
+'--------------------------------------------------------
+
+class Person {
+
+int socialSecurityNumber
+String firstName
+String lastName
+
+}
+
+
+
+class Arrangement {
+
+private int arrId
+private String arrName
+private Person organizer
+private ArrayList<Person> contestants
+
+private void addContestant(Person contestant)
+private void addOrganizer(Person organizer)
+
+}
+
+
+'interactions
+'-------------------------------------------------------
+top to bottom direction
+
+Arrangement -right-> Person
+Arrangement o-- Person
+
+@enduml
