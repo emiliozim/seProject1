@@ -9,11 +9,13 @@ int socialSecurityNumber
 String firstName
 String lastName
 
+private void applyForEvent()
+
 }
 
 
 
-class Arrangement {
+class Event {
 
 private int arrId
 private String arrName
@@ -30,7 +32,7 @@ private void addOrganizer(Person organizer)
 '-------------------------------------------------------
 top to bottom direction
 
-Arrangement -right-> Person
-Arrangement o-- Person
+Event -right-> Person
+Event o-- Person
 
 @enduml

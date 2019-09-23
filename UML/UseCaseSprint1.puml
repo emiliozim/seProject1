@@ -1,12 +1,11 @@
 @startuml
-:Main Admin: as Admin
-(Use the application) as (Use)
 
-Deltaker -> (View Event)
-Deltaker -> (Apply for Event)
-Arrangør -> (Create Event)
-Arrangør -> (View Event)
+left to right direction
 
-Admin ---> (Use)
+Deltaker ---down--> (View Event)
+Deltaker ---down--> (Apply for Event)
+Arrangør ---up--> (Create Event)
+Arrangør ---up--> (View Event)
+
 
 @enduml
