@@ -14,4 +14,8 @@ public class Arrangement {
         this.deltagerListe = deltagerListe;
         this.ansvarlig = ansvarlig;
     }
+
+    public void addDeltager (Deltager deltager){
+        this.deltagerListe.add(deltager);
+    }
 }
