@@ -2,14 +2,14 @@ package softwareengineering.project.model;
 
 public class Person {
 
-    private String fornavn;
-    private String etternavn;
-    private int fodselnummer;
+    private String firstName;
+    private String lastName;
+    private int ssNr;
 
-    public Person(String fornavn, String etternavn, int fodselnummer) {
-        this.fornavn = fornavn;
-        this.etternavn = etternavn;
-        this.fodselnummer = fodselnummer;
+    public Person(String firstName, String lastName, int ssNr) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.ssNr = ssNr;
     }
 
 
