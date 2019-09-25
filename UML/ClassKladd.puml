@@ -1,0 +1,41 @@
+@startuml
+
+'classes and interfaces
+'--------------------------------------------------------
+
+together {
+    abstract class UserAccount
+    interface iContestant
+}
+
+together {
+    class Person
+    class Organization
+}
+
+
+abstract class Event
+
+together {
+    class SkiRace
+    class BikeRace
+}
+
+
+'interactions
+'-------------------------------------------------------
+top to bottom direction
+Person --up|> UserAccount
+Organization ---up|> UserAccount
+
+Person --|> iContestant
+Organization ---up|> iContestant
+
+SkiRace --up|> Event
+BikeRace --up|> Event
+
+
+Event -right----> Person
+Event o---- Person
+
+@enduml

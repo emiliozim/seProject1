@@ -1,0 +1,8 @@
+
+denne filen i rootmappa:
+
+START SOM MAVEN ELLER GRADLE!!!!
+
+dependencies {
+    import '<url>'
+}
