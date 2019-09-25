@@ -8,11 +8,11 @@ public class Event {
     private ArrayList<Person> contestants;
     private Person organizer;
 
-    public Event(String name, int id, ArrayList<Person> contestants, Person ansvarlig) {
+    public Event(String name, int id, ArrayList<Person> contestants, Person organizer) {
         this.name = name;
         this.id = id;
         this.contestants = contestants;
-        this.organizer = ansvarlig;
+        this.organizer = organizer;
     }
 
     public void addPerson (Person person){
