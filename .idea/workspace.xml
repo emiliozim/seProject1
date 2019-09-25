@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Laget klasse diagram sprint1,">
+      <change afterPath="$PROJECT_DIR$/UML/notes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/ClassSprint1.puml" beforeDir="false" afterPath="$PROJECT_DIR$/UML/ClassSprint1.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/UseCaseSprint1.puml" beforeDir="false" afterPath="$PROJECT_DIR$/UML/UseCaseSprint1.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/ClassKladd.puml" beforeDir="false" afterPath="$PROJECT_DIR$/UML/ClassKladd.puml" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,11 +104,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UML/ClassSprint1.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="252">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UML/notes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UML/ClassKladd.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -117,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint1.puml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -152,9 +170,10 @@
         <option value="$PROJECT_DIR$/src/softwareengineering/project/model/User.java" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/model/UserTest.java" />
-        <option value="$PROJECT_DIR$/UML/ClassKladd.puml" />
         <option value="$PROJECT_DIR$/UML/UseCaseSprint1.puml" />
         <option value="$PROJECT_DIR$/UML/ClassSprint1.puml" />
+        <option value="$PROJECT_DIR$/UML/ClassKladd.puml" />
+        <option value="$PROJECT_DIR$/UML/notes" />
       </list>
     </option>
   </component>
@@ -227,12 +246,12 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569264333411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569399574493" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="C:/5oop/OOP2019-master/Forelesning19_Uke11_JUnit_JavaDoc/01_UnitTesting_WithComments" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../5oop/forelesingskode/Forelesing19UnitTesting" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -348,12 +367,12 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1568923063666" duration="3103000" />
       <workItem from="1568969847504" duration="2257000" />
-      <workItem from="1569259499392" duration="1020000" />
+      <workItem from="1569259499392" duration="5676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14812000" />
+    <option name="totallyTimeSpent" value="19468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -440,13 +459,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/UserTest.java" />
-    <entry file="file://$PROJECT_DIR$/UML/ClassKladd.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -457,14 +469,28 @@
     <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint1.puml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UML/notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UML/ClassSprint1.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UML/ClassKladd.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,7 @@
 '--------------------------------------------------------
 
 together {
-    abstract class UserAccountEntity
+    abstract class UserAccount
     interface iContestant
 }
 
@@ -14,7 +14,7 @@ together {
 }
 
 
-abstract class Arrangement
+abstract class Event
 
 together {
     class SkiRace
@@ -25,17 +25,17 @@ together {
 'interactions
 '-------------------------------------------------------
 top to bottom direction
-Person --up|> UserAccountEntity
-Organization ---up|> UserAccountEntity
+Person --up|> UserAccount
+Organization ---up|> UserAccount
 
 Person --|> iContestant
 Organization ---up|> iContestant
 
-SkiRace --up|> Arrangement
-BikeRace --up|> Arrangement
+SkiRace --up|> Event
+BikeRace --up|> Event
 
 
-Arrangement -right----> Person
-Arrangement o---- Person
+Event -right----> Person
+Event o---- Person
 
 @enduml
