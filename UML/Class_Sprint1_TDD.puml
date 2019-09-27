@@ -5,18 +5,20 @@
 
 class Person {
 
-    int socialSecurityNumber
+int socialSecurityNumber
+String firstName
+String lastName
 
-    private void applyForEvent()
 
 }
 
-
-
 class Event {
 
-    private void addContestant(Person contestant)
-    private void addOrganizer(Person organizer)
+private int arrId
+private String arrName
+private Person organizer
+private ArrayList<Person> contestants
+
 
 }
 
@@ -33,6 +35,5 @@ top to bottom direction
 
 Event -right-> Person
 Event o-- Person
-DataRepository --> Event
 
 @enduml
