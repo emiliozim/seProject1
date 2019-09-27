@@ -11,9 +11,8 @@ public class EventTest {
 
 
     @Test
-    public void testAddPerson(){
+    public void viewParticipants(){
 
-        fail("f");
 
     }
 

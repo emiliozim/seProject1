@@ -15,7 +15,5 @@ public class Event {
         this.organizer = organizer;
     }
 
-    public void addPerson (Person person){
-        this.contestants.add(organizer);
-    }
+
 }

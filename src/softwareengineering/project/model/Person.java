@@ -12,5 +12,15 @@ public class Person {
         this.ssNr = ssNr;
     }
 
+    public Person() {
 
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
 }

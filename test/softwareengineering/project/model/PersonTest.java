@@ -8,10 +8,26 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class PersonTest {
+
+    private Person person;
+
+    @BeforeEach
+    private void init() {
+
+        person = new Person();
+
+    }
+
     @Test
-    public Person testAddPerson() {
-        //assertEquals(Person, Event.addPerson());
-        return null;
+    public void testPersonHasFirstName() {
+
+        assertEquals(null, person.getFirstName());
+
+    }
+
+    @Test
+    public void testPersonHasLastName() {
+        assertEquals(null, person.getLastName());
     }
 
 }
