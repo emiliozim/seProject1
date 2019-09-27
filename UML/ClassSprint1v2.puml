@@ -1,0 +1,38 @@
+@startuml
+
+'classes and interfaces
+'--------------------------------------------------------
+
+class Person {
+
+    int socialSecurityNumber
+
+    private void applyForEvent()
+
+}
+
+
+
+class Event {
+
+    private void addContestant(Person contestant)
+    private void addOrganizer(Person organizer)
+
+}
+
+class DataRepository
+
+class TerminalOut
+
+class Main
+
+
+'interactions
+'-------------------------------------------------------
+top to bottom direction
+
+Event -right-> Person
+Event o-- Person
+DataRepository --> Event
+
+@enduml

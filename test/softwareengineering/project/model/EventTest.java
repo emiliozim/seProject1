@@ -11,8 +11,10 @@ public class EventTest {
 
 
     @Test
-    public Event testAddPerson(Person person){
+    public void testAddPerson(){
 
-        return null;
+        fail("f");
+
     }
+
 }
