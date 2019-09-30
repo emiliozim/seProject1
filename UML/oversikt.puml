@@ -1,0 +1,12 @@
+@startuml
+
+Actor Organizer
+Actor Sponsor
+
+
+
+Organizer -> Event: createEvent()
+Event --> Organizer: returnEvent()
+Sponsor -> Event: sponsorEvent()
+
+@enduml

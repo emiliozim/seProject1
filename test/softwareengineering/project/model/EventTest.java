@@ -10,11 +10,12 @@ public class EventTest {
     private Person person;
     private Event event;
 
-
+    Event event = new Event();
 
     @Test
-    public void viewParticipants(){
+    public void eventHasName(){
 
+        assertEquals("", event.getName() );
 
 
 

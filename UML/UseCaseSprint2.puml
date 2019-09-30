@@ -2,12 +2,17 @@
 
 left to right direction
 
-Deltaker ---down--> (View Event)
-Deltaker ---down--> (Apply for Event)
-Deltaker ---down--> (createAccount)
+(Create Event)
+(Apply for Event)
+(Create Event)
+(createAccount)
+
+Deltaker -down--> (View Event)
+Deltaker -down--> (Apply for Event)
+Deltaker -down--> (createAccount)
 
 Arrangør ---up--> (Create Event)
-Arrangør ---down--> (createAccount)
+Arrangør -up--> (createAccount)
 
 
 Arrangør ---up--> (View Event)
