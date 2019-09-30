@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="EventTest">
+      <change afterPath="$PROJECT_DIR$/UML/SequenceSprint2.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/ClassSprint1.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/ClassSprint1v2.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/softwareEngineeringAndTestingProject/softwareengineering/project/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/softwareEngineeringAndTestingProject/softwareengineering/project/model/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/softwareEngineeringAndTestingProject/softwareengineering/project/model/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/softwareEngineeringAndTestingProject/softwareengineering/project/model/PersonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/softwareengineering/project/model/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/softwareengineering/project/model/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
@@ -66,39 +65,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="546">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#716#717#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UML/ClassKladd.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="772">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -106,17 +98,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UML/Class_Sprint1_TDD.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="394">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UML/Class_Sprint1.puml">
+        <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint2.puml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="5" selection-start-line="5" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -124,17 +116,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Event.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="210">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint1.puml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UML/SequenceSprint2.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UML/Class_Sprint1.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Person.java">
+        <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="400">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -145,6 +166,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="UML Sequence" />
       </list>
     </option>
   </component>
@@ -163,18 +185,19 @@
         <option value="$PROJECT_DIR$/src/softwareengineering/project/controller/Controller.java" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/sample.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/HovedVindu.fxml" />
-        <option value="$PROJECT_DIR$/src/softwareengineering/project/Main.java" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/model/User.java" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/controller/MainWindowController.java" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/model/Arrangement.java" />
         <option value="$PROJECT_DIR$/UML/UseCaseSprint2.puml" />
-        <option value="$PROJECT_DIR$/src/softwareengineering/project/model/Event.java" />
-        <option value="$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java" />
         <option value="$PROJECT_DIR$/test/softwareengineering/project/model/notes" />
         <option value="$PROJECT_DIR$/UML/ClassSprint1v2.puml" />
-        <option value="$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java" />
         <option value="$PROJECT_DIR$/src/softwareengineering/project/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/softwareengineering/project/Main.java" />
+        <option value="$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java" />
+        <option value="$PROJECT_DIR$/UML/SequenceSprint2.puml" />
+        <option value="$PROJECT_DIR$/src/softwareengineering/project/model/Event.java" />
+        <option value="$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java" />
       </list>
     </option>
   </component>
@@ -195,52 +218,60 @@
         <subPane>
           <expand>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="seProject1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="softwareEngineeringAndTestingProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="softwareEngineeringAndTestingProject" type="462c0819:PsiDirectoryNode" />
               <item name="UML" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -254,7 +285,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569598975418" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569844892941" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -284,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PersonTest">
+  <component name="RunManager" selected="JUnit.EventTest.testHasOrganizer">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -325,7 +356,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventTest.testAddPerson (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EventTest.testEventHasId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="softwareEngineeringAndTestingProject" />
       <extension name="coverage">
         <pattern>
@@ -335,7 +366,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="softwareengineering.project.model" />
       <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.EventTest" />
-      <option name="METHOD_NAME" value="testAddPerson" />
+      <option name="METHOD_NAME" value="testEventHasId" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -345,7 +376,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EventTest.testHasOrganizer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="softwareEngineeringAndTestingProject" />
       <extension name="coverage">
         <pattern>
@@ -354,8 +385,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="softwareengineering.project.model" />
-      <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.PersonTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.EventTest" />
+      <option name="METHOD_NAME" value="testHasOrganizer" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
@@ -364,7 +396,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest.testPersonHasId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EventTest.testPersonHasId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="softwareEngineeringAndTestingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="softwareengineering.project.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="softwareengineering.project.model" />
+      <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.EventTest" />
+      <option name="METHOD_NAME" value="testPersonHasId" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.testPersonHasFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="softwareEngineeringAndTestingProject" />
       <extension name="coverage">
         <pattern>
@@ -374,7 +426,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="softwareengineering.project.model" />
       <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.PersonTest" />
-      <option name="METHOD_NAME" value="testPersonHasId" />
+      <option name="METHOD_NAME" value="testPersonHasFirstName" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -395,26 +447,6 @@
       <option name="PACKAGE_NAME" value="softwareengineering.project.model" />
       <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.PersonTest" />
       <option name="METHOD_NAME" value="testPersonHasLastName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonTest.testPersonHasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="softwareEngineeringAndTestingProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="softwareengineering.project.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="softwareengineering.project.model" />
-      <option name="MAIN_CLASS_NAME" value="softwareengineering.project.model.PersonTest" />
-      <option name="METHOD_NAME" value="testPersonHasName" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="TEST_SEARCH_SCOPE">
@@ -456,11 +488,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersonTest" />
-        <item itemvalue="JUnit.PersonTest.testPersonHasId" />
+        <item itemvalue="JUnit.EventTest.testHasOrganizer" />
+        <item itemvalue="JUnit.EventTest.testEventHasId" />
+        <item itemvalue="JUnit.EventTest.testPersonHasId" />
         <item itemvalue="JUnit.PersonTest.testPersonHasLastName" />
-        <item itemvalue="JUnit.PersonTest.testPersonHasName" />
-        <item itemvalue="JUnit.EventTest.testAddPerson (1)" />
+        <item itemvalue="JUnit.PersonTest.testPersonHasFirstName" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +513,8 @@
       <workItem from="1569404691652" duration="1125000" />
       <workItem from="1569406461974" duration="2678000" />
       <workItem from="1569415105730" duration="7985000" />
+      <workItem from="1569664505036" duration="241000" />
+      <workItem from="1569837854873" duration="4309000" />
     </task>
     <task id="LOCAL-00001" summary="EventTest">
       <created>1569405219647</created>
@@ -493,45 +527,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PersonTest_testPersonHasName - 2019.09.27 at 11h 30m 04s.xml">
-      <configuration name="PersonTest.testPersonHasName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasName - 2019.09.27 at 11h 32m 04s.xml">
-      <configuration name="PersonTest.testPersonHasName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasName - 2019.09.27 at 11h 44m 42s.xml">
-      <configuration name="PersonTest.testPersonHasName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasLastName - 2019.09.27 at 12h 03m 41s.xml">
-      <configuration name="PersonTest.testPersonHasLastName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasId - 2019.09.27 at 16h 18m 50s.xml">
-      <configuration name="PersonTest.testPersonHasId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasId - 2019.09.27 at 16h 19m 11s.xml">
-      <configuration name="PersonTest.testPersonHasId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest - 2019.09.27 at 16h 19m 17s.xml">
-      <configuration name="PersonTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasId - 2019.09.27 at 16h 23m 12s.xml">
-      <configuration name="PersonTest.testPersonHasId" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PersonTest_testPersonHasId - 2019.09.27 at 16h 23m 30s.xml">
-      <configuration name="PersonTest.testPersonHasId" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PersonTest - 2019.09.27 at 16h 23m 48s.xml">
       <configuration name="PersonTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PersonTest - 2019.09.28 at 11h 57m 08s.xml">
+      <configuration name="PersonTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testPersonHasId - 2019.09.28 at 11h 57m 16s.xml">
+      <configuration name="PersonTest.testPersonHasId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testPersonHasFirstName - 2019.09.28 at 11h 57m 20s.xml">
+      <configuration name="PersonTest.testPersonHasFirstName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PersonTest_testPersonHasLastName - 2019.09.28 at 11h 57m 24s.xml">
+      <configuration name="PersonTest.testPersonHasLastName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventTest_testPersonHasId - 2019.09.30 at 13h 50m 34s.xml">
+      <configuration name="EventTest.testPersonHasId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventTest_testEventHasId - 2019.09.30 at 13h 59m 33s.xml">
+      <configuration name="EventTest.testEventHasId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventTest_testHasOrganizer - 2019.09.30 at 14h 00m 57s.xml">
+      <configuration name="EventTest.testHasOrganizer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventTest_testHasOrganizer - 2019.09.30 at 14h 01m 30s.xml">
+      <configuration name="EventTest.testHasOrganizer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EventTest_testHasOrganizer - 2019.09.30 at 14h 01m 36s.xml">
+      <configuration name="EventTest.testHasOrganizer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23600000" />
+    <option name="totallyTimeSpent" value="28150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21321961" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21748401" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -541,7 +575,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26435536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26435536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -588,12 +622,20 @@
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/CyclingRace.java" />
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/User.java" />
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/view/MainWindow.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Organization.java" />
+    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Deltager.java" />
+    <entry file="file://$PROJECT_DIR$/UML/notes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/notes">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/controller/MainWindowController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -605,93 +647,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Organization.java" />
-    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Deltager.java" />
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
       <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UML/Class_Sprint1_TDD.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UML/notes">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint1.puml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint2.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="394">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UML/ClassKladd.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
+        <state relative-caret-position="772">
           <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java">
+    <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint2.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UML/UseCaseSprint1.puml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UML/SequenceSprint2.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UML/Class_Sprint1.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
+        <state relative-caret-position="100">
           <caret line="5" selection-start-line="5" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UML/Class_Sprint1_TDD.puml">
+    <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/PersonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="546">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/softwareengineering/project/model/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/softwareengineering/project/model/EventTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -18,19 +18,16 @@ public class PersonTest {
 
     }
 
-
     @Test
     public void testPersonHasId() {
 
         assertEquals(0, person.getPersonalID());
-
     }
 
     @Test
     public void testPersonHasFirstName() {
 
         assertEquals(null, person.getFirstName());
-
     }
 
     @Test

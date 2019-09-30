@@ -7,6 +7,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 public class EventTest {
 
+    private Person person;
+    private Event event;
 
 
 
@@ -14,6 +16,21 @@ public class EventTest {
     public void viewParticipants(){
 
 
+
+
+    }
+    @Test
+    public void testEventHasId() {
+
+        person = new Person();
+        event = new Event();
+        assertEquals(0, event.getId());
     }
 
+    @Test
+    public void testHasOrganizer() {
+        event = new Event();
+        person = new Person();
+        assertEquals(person, event.getOrganizer());
+    }
 }
