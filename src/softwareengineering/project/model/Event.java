@@ -8,6 +8,8 @@ public class Event {
     private ArrayList<Person> contestants;
     private Person organizer;
 
+    public Event() {}
+
     public Event(String name, int id, ArrayList<Person> contestants, Person organizer) {
         this.name = name;
         this.id = id;
@@ -16,4 +18,9 @@ public class Event {
     }
 
 
+    public String getName() {
+
+        return "";
+
+    }
 }

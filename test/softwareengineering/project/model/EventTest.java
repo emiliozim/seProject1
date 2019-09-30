@@ -8,11 +8,12 @@ import static org.junit.jupiter.api.Assertions.*;
 public class EventTest {
 
 
-
+    Event event = new Event();
 
     @Test
-    public void viewParticipants(){
+    public void eventHasName(){
 
+        assertEquals("", event.getName() );
 
     }
 
