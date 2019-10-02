@@ -4,20 +4,19 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.Test;
 
+import java.util.ArrayList;
+
 import static org.junit.jupiter.api.Assertions.*;
 public class EventTest {
 
     private Person person;
     private Event event;
+    private ArrayList<Person> contestants;
 
-    Event event = new Event();
 
     @Test
     public void eventHasName(){
-
         assertEquals("", event.getName() );
-
-
 
     }
     @Test
@@ -30,8 +29,9 @@ public class EventTest {
 
     @Test
     public void testHasOrganizer() {
-        event = new Event();
-        person = new Person();
+        contestants = new ArrayList<>();
+        person = new Person("emilio", "zimberlin", 2);
+        event = new Event("fotball", 1, contestants, person);
         assertEquals(person, event.getOrganizer());
     }
 }
